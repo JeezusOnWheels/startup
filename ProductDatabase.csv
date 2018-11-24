@@ -1,0 +1,143 @@
+ID,Product Name,Product Type,Expiry Date
+00000001,Apples,Fruit,2019-07-19
+00000002,Canned Apple Juice,Beverages,2019-01-10
+00000003,Canned Apples & Applesauce,Fruit,2019-09-28
+00000004,Canned Apricots ,Fruit,2019-02-10
+00000005,Bacon Bits,Condiments,2019-06-13
+00000006,Bagels,Breads & Cereal,2019-09-13
+00000007,Baking Powder,Baking,2019-04-21
+00000008,BBQ sauce,Condiments,2019-05-15
+00000009,Baked Beans,Vegetables,2019-05-11
+00000010,Canned Beef,Meats,2019-01-15
+00000011,Biscuit or pancake mix,Baking,2019-08-17
+00000012,Blackberries/Blueberries,Fruit,2019-09-19
+00000013,Bread mixes,Baking,2019-06-15
+00000014,Frozen Burritos,Entrees,2019-06-14
+00000015,Butter,Dairy,2019-04-22
+00000016,Butter & Margarine,Dairy,2019-04-16
+00000017,Cakes & brownie mixes,Baking,2019-09-18
+00000018,Carmel Corn w/ nuts,Snacks,2019-06-19
+00000019,Canned Carrots,Vegetables,2019-09-19
+00000020,Catsup,Condiments,2019-08-18
+00000021,Cereal,Breads & Cereal,2019-06-28
+00000022,American Cheese,Dairy,2019-05-24
+00000023,Hard Cheese,Dairy,2019-05-28
+00000024,Cheese,Dairy,2019-04-19
+00000025,Cottage Cheese,Dairy,2019-04-10
+00000026,Canned Chicken,Meats,2019-09-10
+00000027,Chili Sauce,Condiments,2019-02-23
+00000028,Chocolate,Candy,2019-09-11
+00000029,Chocolate syrup,Desserts,2019-02-11
+00000030,Cocktail sauce,Condiments,2019-01-25
+00000031,Cocoa & cocoa mixes,Desserts,2019-06-28
+00000032,Ground Coffee,Beverages,2019-09-23
+00000033,Instant Coffee,Beverages,2019-06-20
+00000034,Coffee Creamer,Beverages,2019-05-15
+00000035,Coffee Kraft brands,Beverages,2019-05-15
+00000036,Frozen Cooked Fish,Seafood,2019-03-19
+00000037,Cooking oil,Baking,2019-07-28
+00000038,Canned Corn,Vegetables,2019-05-10
+00000039,Cream Corn,Vegetables,2019-04-26
+00000040,Corn Flake Crumbs,Breads & Cereal,2019-06-16
+00000041,Cornmeal,Baking,2019-06-11
+00000042,Cornstarch,Baking,2019-06-16
+00000043,Corn-whole kernel,Vegetables,2019-01-13
+00000044,Cracker Jacks,Snacks,2019-09-23
+00000045,Crackers,snacks,2019-05-22
+00000046,Crackers Keebler,Snacks,2019-03-16
+00000047,Craisins,snacks,2019-02-24
+00000048,Cranberry Sauce,Sides,2019-05-15
+00000049,Frozen Crayfish,Seafood,2019-08-15
+00000050,Cream Cheese,Dairy,2019-03-27
+00000051,Frozen Dates,Fruit,2019-09-16
+00000052,Mayonaise,Condiments,2019-05-12
+00000053,Dry packaged desserts,Desserts,2019-08-23
+00000054,Frozen Duck,Meats,2019-01-17
+00000055,Dried Egg Mix,Dairy,2019-04-21
+00000056,Frozen Egg substitute,Dairy,2019-07-10
+00000057,Pancakes,Breads & Cereal,2019-09-24
+00000058,Figs-dried,Fruit,2019-01-16
+00000059,Canned Fish,Meats,2019-02-22
+00000060,Frozen Fish Nuggets,Meats,2019-03-18
+00000061,Frozen Raw Fish,Seafood,2019-04-12
+00000062,Flour,Baking,2019-07-22
+00000063,Frosting mixes,Baking,2019-05-22
+00000064,Fruit Snacks,Snacks,2019-09-18
+00000065,Canned Fruit,Fruit,2019-01-21
+00000066,Dried Fruit,Fruit,2019-01-17
+00000067,Frozen Berries,Fruit,2019-01-14
+00000068,Chopped Garlic,Baking,2019-08-11
+00000069,Flavored Gelatin,Desserts,2019-02-24
+00000070,Unflavored Gelatin,Desserts,2019-09-14
+00000071,Canned Grape Juice,Beverages,2019-08-26
+00000072,Canned Grapefruit Juice,Beverages,2019-05-25
+00000073,Gravy mix,Baking,2019-07-19
+00000074,Canned Green Beans,Vegetables,2019-01-28
+00000075,Grits-Corn,Breads & Cereal,2019-01-12
+00000076,Guacamole,Condiments,2019-09-18
+00000077,Gummy Bears,Snacks,2019-09-10
+00000078,Canned Ham,Meats,2019-05-16
+00000079,Dried Herbs,Baking,2019-08-14
+00000080,Horseradish,Condiments,2019-04-27
+00000081,Hot Chocolate,Beverages,2019-07-22
+00000082,Hot Dogs,Meats,2019-01-14
+00000083,Ice cream,Desserts,2019-03-22
+00000084,Ice cream cones,snacks,2019-09-24
+00000085,Infant Formula,Baby food,2019-08-25
+00000086,Jelly & Jams,Condiments,2019-01-20
+00000087,Ketchup,Condiments,2019-06-12
+00000088,Macaroni/Spaghetti,Breads & Cereal,2019-08-11
+00000089,Margarine,Dairy,2019-03-14
+00000090,Marshmallows,Desserts,2019-03-16
+00000091,Mayonnaise,Condiments,2019-06-17
+00000092,Evaporated Milk,Dairy,2019-06-13
+00000093,Molasses,Baking,2019-05-11
+00000094,Dried Mushrooms,Vegetables,2019-03-28
+00000095,Mustard,Condiments,2019-03-14
+00000096,Nuts,snacks,2019-04-21
+00000097,Olive Oil,Baking,2019-01-11
+00000098,Olives,Condiments,2019-05-22
+00000099,Orange Juice,Beverages,2019-01-28
+00000100,Frozen Oysters,Seafood,2019-02-10
+00000101,Frozen Pancakes,Entrees,2019-06-19
+00000102,Canned Pasta,Vegetables,2019-05-11
+00000103,Canned Peaches,Fruit,2019-01-21
+00000104,Peanut Butter,Condiments,2019-06-16
+00000105,Peanuts,Legumes,2019-05-17
+00000106,Canned Pears,Fruit,2019-01-23
+00000107,Canned Peas,Legumes,2019-07-25
+00000108,Pickles,Condiments,2019-05-21
+00000109,Canned Pineapple,Fruit,2019-05-20
+00000110,Pizza,Pizza,2019-02-19
+00000111,Canned Plums,Fruit,2019-05-22
+00000112,Microwave Popcorn,snacks,2019-08-13
+00000113,Canned Pork,Meats,2019-06-12
+00000114,Canned Potatoes,Vegetables,2019-01-26
+00000115,Potatoes,Vegetables,2019-07-15
+00000116,Dried Prunes,Fruit,2019-04-11
+00000117,Pudding mixes,Desserts,2019-02-11
+00000118,Rice,Sides,2019-07-22
+00000119,Salad dressings,Condiments,2019-07-20
+00000120,Shortening,Baking,2019-09-12
+00000121,Shrimp,Seafood,2019-09-10
+00000122,Soda,Beverages,2019-08-19
+00000123,Soup mixes,Soups,2019-05-24
+00000124,Canned Soup,Soups,2019-09-16
+00000125,Soy milk,Dairy,2019-04-19
+00000126,Spaghetti sauce mix,Sauces,2019-01-23
+00000127,Spices,Baking,2019-05-17
+00000128,Canned Spinach,Vegetables,2019-07-15
+00000129,Frozen Steak,Meats,2019-01-22
+00000130,Canned Stew,Meats,2019-05-25
+00000131,Stove Top Classics,Entrees,2019-06-16
+00000132,Stove Top Stuffing,Sides,2019-03-18
+00000133,Sugar substitutes,Baking,2019-02-27
+00000134,Brown Sugar,Baking,2019-02-24
+00000135,Sugar,Baking,2019-01-19
+00000136,Canned Sweet Potatoes,Vegetables,2019-08-19
+00000137,Canned Tomatoes,Vegetables,2019-01-24
+00000138,Vanilla Extracts,Baking,2019-09-16
+00000139,Worcestershire sauce,Condiments,2019-09-26
+00000140,Yogurt,Dairy,2019-04-28
+00000141,Sour cream,Dairy,2019-01-22
+00000142,Cottage Cheese,,2019-02-12
